@@ -1,0 +1,11 @@
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\bin\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.deps.json
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\bin\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.runtimeconfig.json
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\bin\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.runtimeconfig.dev.json
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\bin\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.dll
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\obj\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.csprojAssemblyReference.cache
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\obj\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.csproj.CoreCompileInputs.cache
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\obj\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.AssemblyInfoInputs.cache
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\obj\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.AssemblyInfo.cs
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\bin\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.pdb
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\obj\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.dll
+c:\users\renuka.yamala\source\repos\Employee_UsingEntityFrameWork\Employee_UsingEntityFrameWork\obj\Debug\netcoreapp2.0\Employee_UsingEntityFrameWork.pdb
